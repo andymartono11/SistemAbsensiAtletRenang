@@ -1,7 +1,8 @@
 # PRODUCT REQUIREMENTS DOCUMENT
 ## SACR — Sistem Absensi Club Renang
 ### Aplikasi Desktop berbasis WPF, C#, dan SQL Server
-link google drive : 
+#### link google drive : 
+https://drive.google.com/drive/folders/1Rqgo_ulFSGE3e-xq2cQGIVt7zt_jFRYy
 
 | Informasi Tim | Keterangan |
 |---|---|
