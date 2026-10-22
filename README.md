@@ -23,6 +23,9 @@ https://drive.google.com/drive/folders/1Rqgo_ulFSGE3e-xq2cQGIVt7zt_jFRYy
 
 Dokumen kebutuhan produk untuk acuan desain, implementasi, dan pengujian.
 
+**JAWABAN ETS :**
+[JAWABAN ETS](ETS/5025241191_JAWABAN_ETS.md)
+
 ---
 
 ## 1. Ringkasan Eksekutif
